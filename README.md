@@ -80,15 +80,6 @@ The developer assumes **no liability** for misuse of this code.
 
 ---
 
-## 🧷 Contact & Feedback
-
-Have ideas or want to collaborate? Reach out:
-
-* XMPP / Signal preferred
-* No Telegram support
-
----
-
 ## 🏷️ Tags
 
 `#python` `#botnet` `#ddos` `#tor` `#ddos` `#redteam` `#cybersecurity` `#onion` `#c2`
