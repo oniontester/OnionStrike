@@ -47,7 +47,7 @@ Supports both Windows and Linux. Build or distribute the client (build tool comi
 ## 🎬 Demo
 
 Watch the full walkthrough and demo here:
-📺 [https://www.youtube.com/watch?v=OxIRaUSdu7E](https://www.youtube.com/watch?v=OxIRaUSdu7E)
+📺 [https://youtu.be/OxIRaUSdu7E](https://www.youtube.com/watch?v=OxIRaUSdu7E)
 
 ---
 
