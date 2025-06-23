@@ -32,7 +32,7 @@ This architecture models how real-world botnets anonymize control channels, and 
 
 ### Controller (C2)
 ```bash
-git clone https://github.com/yourname/onionstrike.git
+git clone https://github.com/oniontester/onionstrike.git
 cd onionstrike
 python3 -m pip install -r requirements.txt
 python3 src/main.py
