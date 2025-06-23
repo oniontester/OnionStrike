@@ -1,4 +1,4 @@
-# 🧅 OnionStrike v0.1
+# OnionStrike v0.1
 
 **OnionStrike** is a modular, Tor-based botnet command-and-control (C2) framework designed for **educational and red teaming purposes**. It allows secure and anonymous management of remote agents capable of executing stress-test (DDoS) tasks against `.onion` targets.
 
